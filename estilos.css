@@ -1,0 +1,110 @@
+#a {
+        background:rgb(233, 119, 138);
+        height:55vh;
+        width:50%;
+        text-align:center;
+        margin-left:25%;
+        margin-top:10%;
+        border: solid 3px;
+        border-color: rgb(245, 68, 177);
+}
+body{
+    background-color: rgb(224, 169, 197);
+}
+
+#t1{
+    text-align:center;
+}
+
+#imagen{
+    margin-left:25%;
+    height:30vh;
+    width:20%;
+}
+
+#t2{
+    text-align:center;
+}
+
+#i{
+    height:20vh;
+    width:10%;
+}
+
+#flecha{
+    height: 10vh;
+    width:5%;
+}
+#flechita{
+    height:10vh;
+    width:5%;
+}
+
+#ejemplo{
+    margin-left:15%;
+}
+
+#tabla{
+    margin-left: 10%;
+    border:solid 1px;
+    border-collapse: collapse;
+}
+
+#tabla tr,td{
+    border:solid 1px;
+}
+
+#color{
+    color: red;
+}
+
+
+#ejem{
+    color: royalblue;
+    font-size: 23px;
+}
+#c{
+    color: brown;    
+}
+
+#row1{
+    background-color: rgb(230, 231, 129);
+}
+#row2{
+    background-color: rgb(108, 108, 235);
+}
+#row3{
+    background-color: rgb(241, 105, 105);
+}
+#row4{
+    background-color: rgb(115, 228, 115);
+}
+#row5{
+    background-color: chocolate;
+}
+#row6{
+    background-color: darkgray;
+}
+#row7{
+    background-color: rgb(141, 86, 86);
+}
+
+
+#ro1{background-color: white;}
+#ro2{background-color: silver;}
+#ro3{background-color: grey;}
+#ro4{background-color: yellow;}
+#ro5{background-color: goldenrod;}
+#ro6{background-color: orange;}
+#ro7{background-color: red;color: white;}
+#ro8{background-color: purple;color: white;}
+#ro9{background-color: blue;color: white;}
+#ro10{background-color: indigo;color: white;}
+#ro11{background-color:green;}
+#ro12{background-color: black;color: white;}
+
+#apps{
+    height:70px;
+    width:80px;
+    margin-left: 35%;
+}
